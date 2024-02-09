@@ -2,4 +2,4 @@
 
 This is my first Repository.
 <br>
-By - Akanksha (Desire)
+Author - Akanksha (WIT college)
